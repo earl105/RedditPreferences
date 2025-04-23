@@ -2,6 +2,10 @@
 ![Flask](https://img.shields.io/badge/Flask-Enabled-brightgreen)
 # Reddit Preferences
 A Python/Flask app that sets user preferences. It is made to be run on PythonAnywhere.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-Enabled-brightgreen)
+# Reddit Preferences
+A Python/Flask app that sets user preferences. It is made to be run on PythonAnywhere.
 This was purely created using AI and vibe coding, I do not take credit for anything here lol.
 
 # Features
@@ -31,10 +35,13 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 2. When [APP] is closed (Set app as settings)
 3. Open URL (Set URL to the Python Anywhere URL, http://<your-username>.pythonanywhere.com/run-script?key=[YOURKEY])
 4. Set automation #1 to run immediately (without needing confirmation)
+![Demo Screenshot](images/SettingsClosed.jpg)
  # Set up the second automation as follows:
 5. When [APP] is opened (Set app as settings)
 6. Set a global text variable lastOpened to the Current Date, with the Date Format set to NONE and the Time Format set to SHORT.
 7. Set automation #2 to run immediately (without needing confirmation)
+![Demo Screenshot](images/SettingsOpened.jpg)
+![Demo Screenshot](images/SettingsOpenedInside.jpg)
  # Set up the "Reddit Settings" shortcut as follows:
 8. Get global text variable lastOpened
 9. Get Minutes between Current Date and Global Variable - Text
@@ -46,10 +53,13 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 15. Otherwise
 16. Open [APP] (set app to Reddit)
 17. End IF 
+![Demo Screenshot](images/RedditSettings1.jpg)
+![Demo Screenshot](images/RedditSettings2.jpg)
  # Set up the third automation as follows:
 18. When [APP] is opened (Set app as Reddit)
 19. Open shortcut "Reddit Settings"
 20. Set automation #3 to run immediately (without needing confirmation)
+![Demo Screenshot](images/RedditOpened.jpg)
 
 
 # Explanation: 
