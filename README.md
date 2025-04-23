@@ -40,7 +40,8 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 # Set up the second automation as follows:
 5. When [APP] is opened (Set app as settings)
 6. Set a global text variable lastOpened to the Current Date, with the Date Format set to NONE and the Time Format set to SHORT.
-7. Set automation #2 to run immediately (without needing confirmation)
+7. Set automation #2 to run immediately (without needing confirmation)  
+
 <img src="images/SettingsOpened.jpg" alt="Demo Screenshot" height="300"> <img src="images/SettingsOpenedInside.jpg" alt="Demo Screenshot" height="300">
 
 # Set up the "Reddit Settings" shortcut as follows:
@@ -53,13 +54,14 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 14. Open URL (set to Python Anywhere URL, http://<your-username>.pythonanywhere.com/run-script?key=[YOURKEY])
 15. Otherwise
 16. Open [APP] (set app to Reddit)
-17. End IF 
+17. End IF  
+
 <img src="images/RedditSettings1.jpg" alt="Demo Screenshot" height="300"> <img src="images/RedditSettings2.jpg" alt="Demo Screenshot" height="300">
 
 # Set up the third automation as follows:
 18. When [APP] is opened (Set app as Reddit)
 19. Open shortcut "Reddit Settings"
-20. Set automation #3 to run immediately (without needing confirmation)
+20. Set automation #3 to run immediately (without needing confirmation)  
 
 <img src="images/RedditOpened.jpg" alt="Demo Screenshot" height="300">
 
