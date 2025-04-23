@@ -42,8 +42,9 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 19. Open shortcut "Reddit Settings"
 20. Set automation #3 to run immediately (without needing confirmation)
 
-**(Automation 2)** When you open the settings app, it logs the time you last opened the settings app, allowing for this step:  
 
+
+**(Automation 2)** When you open the settings app, it logs the time you last opened the settings app, allowing for this step:  
 
 Now, when you open Reddit **(Automation 3)**, it checks **(using the "Reddit Settings" shortcut)** if the settings app has been opened within the past 3 minutes (or however long you set it to).  
 
