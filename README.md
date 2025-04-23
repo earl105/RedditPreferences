@@ -14,6 +14,7 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 9. Update RedditApp.py and create/modify the KEY section
 10. Test it by opening: http://<your-username>.pythonanywhere.com/run-script?key=[YOURKEY]
 11. It should say something like: "Script Ran Successfully"
+12. Every 3 months, you have to renew your PythonAnywhere site unless you pay, but it only takes two seconds.
 
 # IOS Shortcuts App
 1. Download the "Actions" App. The App Icon is a blue gear.
