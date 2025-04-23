@@ -42,9 +42,9 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 19. Open shortcut "Reddit Settings"
 20. Set automation #3 to run immediately (without needing confirmation)
 
-(Automation 2) When you open the settings app, it logs the time you last opened the settings app, allowing for this step:  
-Now, when you open Reddit (Automation 3), it checks (using the "Reddit Settings" shortcut) if the settings app has been opened within the past 3 minutes (or however long you set it to). If the settings app has been opened recently, it will incessantly redirect you to the website that changes your Reddit Preferences. This essentially puts the app on a time-out for those 3 minutes after settings have been opened. This is helpful as there is a short delay between running the site and the phone app recognizing that the preferences have changed. Otherwise, it proceeds to Reddit like normal.  
-(Automation 1) When you close settings, it resets your user preferences, making it so that any time it is changed, it gets changed back immediately.
+**(Automation 2)** When you open the settings app, it logs the time you last opened the settings app, allowing for this step:  
+Now, when you open Reddit **(Automation 3)**, it checks **(using the "Reddit Settings" shortcut)** if the settings app has been opened within the past 3 minutes (or however long you set it to).  If the settings app has been opened recently, it will incessantly redirect you to the website that changes your Reddit Preferences.  This essentially puts the app on a time-out for those 3 minutes after settings have been opened.  This is helpful as there is a short delay between running the site and the phone app recognizing that the preferences have changed.  Otherwise, it proceeds to Reddit like normal.  
+**(Automation 1)** When you close settings, it resets your user preferences, making it so that any time it is changed, it gets changed back immediately.
 
 
 
