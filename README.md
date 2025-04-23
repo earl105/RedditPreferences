@@ -30,7 +30,7 @@ This was purely created using AI and vibe coding, I do not take credit for anyth
 9. Get Minutes between Current Date and Global Variable - Text
 10. Set the Current Date format to match (the Date Format set to NONE and the Time Format set to SHORT)
 11. Calculate the absolute value (abs(x)) of Time Between Dates
-12. If Calculation Result is less than or equal to 3 (3 minute cooldown)
+12. If the Calculation Result is less than or equal to 3 (3-minute cooldown)
 13. (OPTIONAL) Show Notification: Last Time Settings was opened: [Global Variable - Text] (\n) Minutes since: [Calculation Result]
 14. Open URL (set to Python Anywhere URL, http://<your-username>.pythonanywhere.com/run-script?key=[YOURKEY])
 15. Otherwise
