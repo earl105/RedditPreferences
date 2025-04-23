@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-Enabled-brightgreen)
 # Reddit Preferences
 A Python/Flask app that sets user preferences. It is made to be run on PythonAnywhere.
 This was purely created using AI and vibe coding, I do not take credit for anything here lol.
